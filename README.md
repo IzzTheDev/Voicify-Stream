@@ -16,3 +16,10 @@ A standalone desktop application for realistic text-to-speech generation
 - ✅ **Dark Theme**: Easy on the eyes!
 
 ---
+
+## System Requirements
+
+- 1920 x 1080 display
+- Nvidia Geforce GT 1080
+- AMD Ryzen 2000
+- 1GB ram
